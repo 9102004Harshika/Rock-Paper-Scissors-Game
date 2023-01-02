@@ -3,10 +3,10 @@ Fully Functional Rock Paper Scissors Game in Python
 
 This Game comes in 4 modes:
 <ol type="1">
-Beginner
-Intermediate
-Expert
-Super Hard
+  <li>Beginner</li>
+  <li>Intermediate</li>
+  <li>Expert</li>
+  <li>Super Hard</li>
 </o1>
 Beginner is only doing it randomly. Intermediate uses a particular AI Algorithm based on common player psychology. Expert uses a butchering of the Markov Chain Concept to allow the Machine to adapt to player strategies and accurately predict their next pick. Super hard is well... Super hard.
 
